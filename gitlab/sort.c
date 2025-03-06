@@ -15,4 +15,4 @@ void SelectionSort(struct Student students[], int N){ //selection sort
             }
     }
 
-}
+}  //Селектсорт улитка
