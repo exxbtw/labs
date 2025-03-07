@@ -1,18 +1,26 @@
-void SelectionSort(struct Student students[], int N){ //selection sort
-    
-    for(int i=0; i<N-1; i++){ //n-1 в конце уже остается мин элемент, внеш проходит по каждому эл массива
-        int maxtotalstudent = i; //текущий макс
+#include ‹stdio.h›
 
-        for(int j=i+1; j<N; j++){ //макс среди оставшихся ищем
-            if(students[j].total>students[maxtotalstudent].total){
-                maxtotalstudent = j;
-            }
-        }
-    if(maxtotalstudent!=i){ //фикт
-            struct Student temp = students[i];
-            students[i] = students[maxtotalstudent];
-            students[maxtotalstudent] = temp;
-            }
-    }
+void SuperSelectsort (int All, int n) {
+    int vrem, min;
+    for(int i = 0; i < n-1; i++) {
+	min = i;
+	for (int j = i + 1; j < n; j++) {
+	     if(A[j] < A[min]) {
+	     	 min = j；
+		}
+	}
 
-}  //Селектсорт улитка
+	if(min != i){ //добавили проверку на фиктивные пересылки
+	    vrem = A[i];
+	    A[i] = Almin];
+	    A[min] = vrem;
+	  }
+      }
+}
+
+int main () {
+
+	int a[] = {4, 2, 5, };
+	int n = 3;
+	SuperSelectsort(a, n);
+}
