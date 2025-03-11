@@ -1,0 +1,6 @@
+[submodule "labs"]
+	path = labs
+	url = https://github.com/exxbtw/labs
+[submodule "forsubmodule"]
+	path = forsubmodule
+	url = https://github.com/exxbtw/forsubmodule
