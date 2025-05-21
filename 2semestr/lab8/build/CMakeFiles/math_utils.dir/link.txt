@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmath_utils.a CMakeFiles/math_utils.dir/src/math_utils.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmath_utils.a

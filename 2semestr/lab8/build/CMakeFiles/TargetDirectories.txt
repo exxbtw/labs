@@ -1,0 +1,4 @@
+/Users/user/VSCODE/semestr2/lab8/build/CMakeFiles/math_utils.dir
+/Users/user/VSCODE/semestr2/lab8/build/CMakeFiles/test_math_utils.dir
+/Users/user/VSCODE/semestr2/lab8/build/CMakeFiles/edit_cache.dir
+/Users/user/VSCODE/semestr2/lab8/build/CMakeFiles/rebuild_cache.dir
