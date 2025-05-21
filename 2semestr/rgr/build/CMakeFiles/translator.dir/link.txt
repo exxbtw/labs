@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -arch x86_64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/translator.dir/translator.c.o CMakeFiles/translator.dir/translator_utils.c.o -o translator   -L/usr/local/Cellar/cmocka/1.1.7/lib

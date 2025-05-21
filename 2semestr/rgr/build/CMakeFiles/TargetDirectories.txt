@@ -1,0 +1,5 @@
+/Users/user/VSCODE/semestr2/rgr/build/CMakeFiles/translator.dir
+/Users/user/VSCODE/semestr2/rgr/build/CMakeFiles/test_translator.dir
+/Users/user/VSCODE/semestr2/rgr/build/CMakeFiles/test.dir
+/Users/user/VSCODE/semestr2/rgr/build/CMakeFiles/edit_cache.dir
+/Users/user/VSCODE/semestr2/rgr/build/CMakeFiles/rebuild_cache.dir
